@@ -1,0 +1,5 @@
+,Name,Type,Lower_bound,Upper_bound,Bin_dec_prec,Steps,Bits,Bin_sz
+0,x1_value,continuous,-100,100,3,-,18,-
+1,x2_value,continuous,-100,100,3,-,18,-
+2,x3_value,continuous,-100,100,3,-,18,-
+3,x4_value,continuous,-100,100,3,-,18,-
